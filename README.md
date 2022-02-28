@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm TelsaV</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhomlala&label=Profile%20views&color=0e75b6&style=flat" alt="jhomlala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=telsv&label=Profile%20views&color=0e75b6&style=flat" alt="telsv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhomlala" alt="jhomlala" /></a> </p>
+<p align="left"> <a href="https://github.com/telsv/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=telsv" alt="telsv" /></a> </p>
 
-- 🔭 I’m currently working on **BetterPlayer, Catcher, Alice**
+- 🔭 I’m currently working on **DTOK, DTOK Panel, DTOK Shop**
 
-- 🏢 I'm working @ [Better Software Group](https://bsgroup.eu)
+- 🏢 I'm working @ [DTOK](https://github.com/TelsaCoin)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jhomlala](https://github.com/jhomlala)
+- 👨‍💻 All of my projects are available at [https://github.com/telsv](https://github.com/telsv)
 
 - 💬 Ask me about **Flutter, Dart, Android**
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jhomlala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jhomlala" height="30" width="40" /></a>
-<a href="https://medium.com/@jhomlala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jhomlala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/telsv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jhomlala" height="30" width="40" /></a>
+<a href="https://medium.com/@telsv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jhomlala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
